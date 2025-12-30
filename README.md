@@ -44,7 +44,7 @@ Projeyi yerel makinenizde çalıştırmak için aşağıdaki adımları izleyin.
 ### 1\. Projeyi Klonlayın
 
 ```bash
-git clone https://github.com/enesdolgun33/e-commerce-app.git
+git clone https://github.com/enesdolgun10/e-commerce-app.git
 cd e-commerce-app
 ```
 
